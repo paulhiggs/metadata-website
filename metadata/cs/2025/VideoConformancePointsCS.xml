@@ -4,7 +4,6 @@
 2022:  add AVS3 and VVC
 2025:  update DASH Bitstream Conformance Points with VVC and AVS3 references
        add DASH Bitstream HDR Dynamic Mapping Information Conformance Points
-
 -->
 <ClassificationScheme xmlns="urn:dvb:metadata:schema:dvbCSschema:2007"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
